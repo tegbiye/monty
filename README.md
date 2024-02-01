@@ -20,28 +20,45 @@ pall$ julien@ubuntu:~/monty$ ```
 
 ### Mandatory:-
 
-0. push, pall Implement the push and pall opcodes. 1. pint Implement the pint opcode. 2. pop Implement the pop 
-   opcode.
-3. swap Implement the swap opcode. 4. add Implement the add opcode.Implement the add opcode. 5. nop Implement 
-   the nop opcode.
+0. push, pall Implement the push and pall opcodes.
+
+1. pint Implement the pint opcode.
+
+2. pop Implement the pop opcode.
+
+3. swap Implement the swap opcode.
+
+4. add Implement the add opcode. Implement the add opcode.
+
+5. nop Implement  the nop opcode.
+
 ### Advanced:-
-6. sub Implement the sub opcode. 7. div Implement the div opcode. 8. mul Implement the mul opcode. 9. mod 
-   Implement the mod opcode.
-10. comments When the first non-space character of a line is #, treat this line as a comment (don't do 
-    anything).
-11. pchar Implement the pchar opcode that prints the char at the top of the stack, followed by a new line. 12. 
-pstr
-    Implement the pstr opcode that prints the string starting at the top of the stack, followed by a new line. 
-13. rotl
-    Implement the rotl opcode that rotates the stack to the top. 14. rotr Implement the rotr opcode that rotates 
-    the stack to the bottom.
-15. stack, queue Implement the stack and queue opcodes. The opcode stack sets the format of the data to a stack 
-    (LIFO). This is the default behavior of the program. The opcode queue sets the format of the data to a queue 
-    (FIFO).
-16. Brainf*ck Write a Brainf*ck script that prints School, followed by a new line. 17. Add two digits Add two 
-    digits given by the user.
-18. Multiplication Multiply two digits given by the user. 19. Multiplication level up Multiply two digits given 
-    by the user.
+6. sub Implement the sub opcode.
+
+7. div Implement the div opcode.
+
+8. mul Implement the mul opcode.
+
+9. mod Implement the mod opcode.
+
+10. comments When the first non-space character of a line is #, treat this line as a comment (don't do anything).
+
+11. pchar Implement the pchar opcode that prints the char at the top of the stack, followed by a new line.
+
+12.  pstr Implement the pstr opcode that prints the string starting at the top of the stack, followed by a new line.
+
+13. rotl Implement the rotl opcode that rotates the stack to the top.
+
+14. rotr Implement the rotr opcode that rotates the stack to the bottom.
+
+15. stack, queue Implement the stack and queue opcodes. The opcode stack sets the format of the data to a stack (LIFO).
+This is the default behavior of the program. The opcode queue sets the format of the data to a queue (FIFO).
+
+16. Brainf*ck Write a Brainf*ck script that prints School, followed by a new line. 17. Add two digits Add two digits given by the user.
+
+18. Multiplication Multiply two digits given by the user.
+
+19. Multiplication level up Multiply two digits given by the user.
 
 ## Author:
 
